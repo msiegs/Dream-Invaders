@@ -1,0 +1,2 @@
+[0m[[0minfo[0m] [0mRunning cs1302.fxgame.Driver [0m
+[0m[[31merror[0m] [0m2015-12-08 20:42:13.874 java[2134:251061] 20:42:13.874 WARNING:  140: This application, or a library it uses, is using the deprecated Carbon Component Manager for hosting Audio Units. Support for this will be removed in a future release. Also, this makes the host incompatible with version 3 audio units. Please transition to the API's in AudioComponent.h.[0m

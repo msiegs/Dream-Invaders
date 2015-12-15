@@ -13,19 +13,19 @@ Note: This game is designed after the famous rapper, Tyler the Creator.
 
 ### Screenshots:
 
-![Main Menu](http://imgur.com/zgVmAwb "Main Menu")
+![Main Menu](http://i.imgur.com/zgVmAwb.png "Main Menu")
 Main Menu
 
-![Instructions Page](http://imgur.com/f20hYBz "Instructions")
+![Instructions Page](http://i.imgur.com/f20hYBz.png "Instructions")
 Instructions Page
 
-![Beginning of Game](http://imgur.com/zn3v7cb "Initiate Game")
+![Beginning of Game](http://i.imgur.com/zn3v7cb.png "Initiate Game")
 Beginning of Game
 
-![GamePlay](http://imgur.com/lth4epB "GamePlay")
+![GamePlay](http://i.imgur.com/lth4epB.png "GamePlay")
 GamePlay
 
-![Game Over Screen](http://imgur.com/D27OQ7X "GameOver")
+![Game Over Screen](http://i.imgur.com/D27OQ7X.png "GameOver")
 Game Over
 
 

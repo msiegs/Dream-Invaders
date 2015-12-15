@@ -1,13 +1,3 @@
-# Project Submission
-
-Author: MATT SIEGEL 943
-
-EXTRA CREDIT:
-On the main menu, I set two animations:
-1) A "PRESS ENTER" label with blinking text.
-2) An ImageView that moves across the screen
-
-# Gameplay Instructions
 HOW TO PLAY:
 -- SHOOT: UP Key
 -- MOVE LEFT: LEFT Key

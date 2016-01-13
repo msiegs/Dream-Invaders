@@ -1,5 +1,3 @@
-https://vimeo.com/151681099
-
 ### How to Play: 
 
 -- SHOOT: UP Key	
@@ -14,6 +12,8 @@ Note: This game is designed after the famous rapper, Tyler the Creator.
 
 
 ### Screenshots:
+
+![GamePlay Video](https://vimeo.com/151681099 "GamePlay Video")
 
 ![Main Menu](http://i.imgur.com/zgVmAwb.png "Main Menu")
 

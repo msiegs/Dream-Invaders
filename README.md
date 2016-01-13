@@ -13,7 +13,7 @@ Note: This game is designed after the famous rapper, Tyler the Creator.
 
 ### Screenshots:
 
-![GamePlay Video](https://vimeo.com/151681099 "GamePlay Video")
+GamePlay Video: https://vimeo.com/151681099
 
 ![Main Menu](http://i.imgur.com/zgVmAwb.png "Main Menu")
 

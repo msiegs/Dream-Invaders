@@ -1,5 +1,4 @@
-<iframe src="https://player.vimeo.com/video/151681099" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/151681099">Dream Invaders</a> from <a href="https://vimeo.com/user47792733">Matt Siegel</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+https://vimeo.com/151681099
 
 ### How to Play: 
 
